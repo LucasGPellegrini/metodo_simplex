@@ -4,6 +4,9 @@ Resolução de um problema de programação linear de maximização ou minimiza�
 
 Dado uma função objetivo e suas restrições o programa monta o quadro e executa o algoritmo simples ou duas fases, dependendo da entrada.
 
+#### Feito por Lucas Guerreiro Pellegrini;
+###### Para a disciplina de Computação Científica e Otimização.
+
 ## Saídas do algoritmo para um caso de maximização através do método simples simples:
 
  <div align="center", font-size: 150%><em>Exemplo de Execução</em></div>
